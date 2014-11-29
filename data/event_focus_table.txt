@@ -1,0 +1,10 @@
+1-7. Remote event
+8-22. Character action
+23-30. Introduce a new character
+31-42. Thread related event
+43-47. Close or open a thread
+48-55. Player character negative
+56-63. Player character positive
+64-88. Neutral event
+89-94. NPC negative
+95-100. NPC positive
